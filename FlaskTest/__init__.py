@@ -1,0 +1,1 @@
+from .FlaskText import app
